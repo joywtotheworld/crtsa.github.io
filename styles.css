@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #e4edf7;
-    font-family: segoe UI, Helvetica, sans-serif;
+    font-family: courier, Helvetica, sans-serif;
 }
 
 /* Header / Navbar */
@@ -121,4 +121,5 @@ footer {
         font-size: 18px;
     }
 }
+
 
