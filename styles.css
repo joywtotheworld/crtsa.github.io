@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #e4edf7;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: azonix, Helvetica, sans-serif;
 }
 
 /* Header / Navbar */
@@ -121,3 +121,4 @@ footer {
         font-size: 18px;
     }
 }
+
